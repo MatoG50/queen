@@ -15,7 +15,7 @@
   background-color: rgb(151, 32, 59);
   margin-top: 10%;
   margin-bottom: 10%;
-  height: 80%;
+  height: 65%;
   width: 80%;
   overflow: hidden;
   flex-wrap: nowrap;
@@ -36,7 +36,7 @@ p {
   font-size: 24px;
   margin-left: 12%;
   margin-right: 12px;
-  margin-top: 15%;
+  margin-top: 5%;
   padding-bottom: 2px;
 }
 
