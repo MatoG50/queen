@@ -47,4 +47,7 @@ p {
   img {
     height: 120px;
   }
+  .message {
+    margin-top: 22%;
+  }
 }
